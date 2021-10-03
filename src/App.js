@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Lets do something harder and more advance!!!
+          Volume mounting is now set!
         </p>
         <a
           className="App-link"
